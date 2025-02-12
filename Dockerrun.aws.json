@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "kimheeae/django-app:latest",
+    "Name": "kimheeae/eb-django-app:latest",
     "Update": "true"
   },
   "Ports": [
